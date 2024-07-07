@@ -1,0 +1,10 @@
+# Data Models
+
+## User
+
+```json
+{
+    
+}
+
+```
